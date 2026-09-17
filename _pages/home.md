@@ -17,7 +17,7 @@ permalink: /
 
 ### About
 
-I am a third year PhD candidate at Stanford University, Department of Mechanical Engineering, advised by [Dr. Alison Marsden](https://profiles.stanford.edu/alison-marsden) (Stanford). My research integrates **computational fluid dynamics** with **scientific machine learning** and **multi-fidelity uncertainty quantification** to develop clinically deployable **cardiovascular digital twins**. 
+I am a fourth year PhD candidate at Stanford University, Department of Mechanical Engineering, advised by [Dr. Alison Marsden](https://profiles.stanford.edu/alison-marsden) (Stanford). My research integrates **computational fluid dynamics** with **scientific machine learning** and **multi-fidelity uncertainty quantification** to develop clinically deployable **cardiovascular digital twins**. 
 
 Supported by the **AHA predoctoral fellowship**, I am collaborating with [Dr. Daniele Schiavazzi](https://acms.nd.edu/people/daniele-schiavazzi/) (University of Notre Dame) and [Dr. Jeffrey Feinstein](https://med.stanford.edu/profiles/jeffrey-feinstein) (Stanford) to develop an automated, uncertainty-aware neural network framework that enable efficient and reliable parameter estimation for clinical workflows. These tools will ultimately provide real-time feedback to clinicians to plan difficult treatment procedures for pediatric patients with peripheral pulmonary arterial stenosis (PPAS).
 
